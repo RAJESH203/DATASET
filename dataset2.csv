@@ -1,0 +1,181 @@
+Stop,Boarders_MCRbound,Alighters_MCRbound,Boarders_BuryBound,Alighters_BuryBound,Boarders_all,Alighters_all,Total_Passengers,Month,Time,Date,Anomaly
+Bury Interchange,384,0,0,105,384,105,489,Feb_17,Before  07:30,Wednesday,1
+Radcliffe,330,7,36,18,366,25,391,Feb_17,Before  07:30,Wednesday,1
+Whitefield,154,4,31,10,185,14,199,Feb_17,Before  07:30,Wednesday,1
+Besses O'th'Barn,106,12,19,12,125,24,149,Feb_17,Before  07:30,Wednesday,1
+Prestwich,50,15,7,15,57,30,87,Feb_17,Before  07:30,Wednesday,0
+Heaton Park,84,9,7,6,91,15,106,Feb_17,Before  07:30,Wednesday,1
+Bowker Vale,101,2,15,2,116,4,120,Feb_17,Before  07:30,Wednesday,1
+Crumpsall,73,14,18,7,91,21,112,Feb_17,Before  07:30,Wednesday,1
+Abraham Moss,26,7,4,8,30,15,45,Feb_17,Before  07:30,Wednesday,0
+Queens Road,16,16,3,4,19,20,39,Feb_17,Before  07:30,Wednesday,0
+Bury Interchange,914,0,0,978,914,978,1892,Feb_17,AM Peak 07:30-09:30,Wednesday,0
+Radcliffe,805,52,237,101,1042,153,1195,Feb_17,AM Peak 07:30-09:30,Wednesday,1
+Whitefield,655,89,131,57,786,146,932,Feb_17,AM Peak 07:30-09:30,Wednesday,1
+Besses O'th'Barn,383,53,125,47,508,100,608,Feb_17,AM Peak 07:30-09:30,Wednesday,1
+Prestwich,283,89,158,219,441,308,749,Feb_17,AM Peak 07:30-09:30,Wednesday,0
+Heaton Park,276,320,99,66,375,386,761,Feb_17,AM Peak 07:30-09:30,Wednesday,0
+Bowker Vale,296,21,171,15,467,36,503,Feb_17,AM Peak 07:30-09:30,Wednesday,1
+Crumpsall,315,107,169,82,484,189,673,Feb_17,AM Peak 07:30-09:30,Wednesday,0
+Abraham Moss,179,55,171,67,350,122,472,Feb_17,AM Peak 07:30-09:30,Wednesday,0
+Queens Road,53,37,12,24,65,61,126,Feb_17,AM Peak 07:30-09:30,Wednesday,0
+Bury Interchange,1600,0,0,2562,1600,2562,4162,Feb_17,Off-peak 09:30-13:30,Wednesday,0
+Radcliffe,365,142,329,146,694,288,982,Feb_17,Off-peak 09:30-13:30,Wednesday,0
+Whitefield,385,155,343,173,728,328,1056,Feb_17,Off-peak 09:30-13:30,Wednesday,0
+Besses O'th'Barn,205,85,181,66,386,151,537,Feb_17,Off-peak 09:30-13:30,Wednesday,0
+Prestwich,256,186,252,151,508,337,845,Feb_17,Off-peak 09:30-13:30,Wednesday,0
+Heaton Park,148,98,195,56,343,154,497,Feb_17,Off-peak 09:30-13:30,Wednesday,0
+Bowker Vale,194,82,183,64,377,146,523,Feb_17,Off-peak 09:30-13:30,Wednesday,0
+Crumpsall,257,84,173,115,430,199,629,Feb_17,Off-peak 09:30-13:30,Wednesday,0
+Abraham Moss,202,72,171,83,373,155,528,Feb_17,Off-peak 09:30-13:30,Wednesday,0
+Queens Road,101,51,36,65,137,116,253,Feb_17,Off-peak 09:30-13:30,Wednesday,0
+Bury Interchange,1511,0,0,805,1511,805,2316,Feb_17,13:30-15:59,Wednesday,0
+Radcliffe,149,186,120,362,269,548,817,Feb_17,13:30-15:59,Wednesday,0
+Whitefield,137,171,206,327,343,498,841,Feb_17,13:30-15:59,Wednesday,0
+Besses O'th'Barn,68,141,59,199,127,340,467,Feb_17,13:30-15:59,Wednesday,0
+Prestwich,267,185,167,265,434,450,884,Feb_17,13:30-15:59,Wednesday,0
+Heaton Park,108,107,383,89,491,196,687,Feb_17,13:30-15:59,Wednesday,0
+Bowker Vale,75,165,61,142,136,307,443,Feb_17,13:30-15:59,Wednesday,0
+Crumpsall,129,163,98,209,227,372,599,Feb_17,13:30-15:59,Wednesday,0
+Abraham Moss,104,130,70,124,174,254,428,Feb_17,13:30-15:59,Wednesday,0
+Queens Road,66,63,41,67,107,130,237,Feb_17,13:30-15:59,Wednesday,0
+Bury Interchange,1340,0,0,1383,1340,1383,2723,Feb_17,16:00-18:59,Wednesday,0
+Radcliffe,243,295,115,1022,358,1317,1675,Feb_17,16:00-18:59,Wednesday,1
+Whitefield,223,285,181,657,404,942,1346,Feb_17,16:00-18:59,Wednesday,0
+Besses O'th'Barn,81,137,71,436,152,573,725,Feb_17,16:00-18:59,Wednesday,1
+Prestwich,198,225,144,539,342,764,1106,Feb_17,16:00-18:59,Wednesday,0
+Heaton Park,78,149,125,318,203,467,670,Feb_17,16:00-18:59,Wednesday,0
+Bowker Vale,64,166,55,369,119,535,654,Feb_17,16:00-18:59,Wednesday,1
+Crumpsall,165,118,83,265,248,383,631,Feb_17,16:00-18:59,Wednesday,0
+Abraham Moss,127,189,84,257,211,446,657,Feb_17,16:00-18:59,Wednesday,0
+Queens Road,78,72,69,104,147,176,323,Feb_17,16:00-18:59,Wednesday,0
+Bury Interchange,334,0,0,629,334,629,963,Feb_17,19:00-end of service,Wednesday,0
+Radcliffe,92,101,54,377,146,478,624,Feb_17,19:00-end of service,Wednesday,1
+Whitefield,119,78,55,270,174,348,522,Feb_17,19:00-end of service,Wednesday,0
+Besses O'th'Barn,47,78,30,167,77,245,322,Feb_17,19:00-end of service,Wednesday,1
+Prestwich,60,57,68,212,128,269,397,Feb_17,19:00-end of service,Wednesday,0
+Heaton Park,33,47,36,180,69,227,296,Feb_17,19:00-end of service,Wednesday,1
+Bowker Vale,29,41,23,186,52,227,279,Feb_17,19:00-end of service,Wednesday,1
+Crumpsall,29,32,30,202,59,234,293,Feb_17,19:00-end of service,Wednesday,1
+Abraham Moss,36,20,31,133,67,153,220,Feb_17,19:00-end of service,Wednesday,0
+Queens Road,49,31,38,62,87,93,180,Feb_17,19:00-end of service,Wednesday,0
+Bury Interchange,62,0,0,35,62,35,97,April_16,Before  07:30,Saturday,0
+Radcliffe,46,5,10,6,56,11,67,April_16,Before  07:30,Saturday,1
+Whitefield,32,9,5,4,37,13,50,April_16,Before  07:30,Saturday,0
+Besses O'th'Barn,20,4,3,2,23,6,29,April_16,Before  07:30,Saturday,1
+Prestwich,22,6,2,7,24,13,37,April_16,Before  07:30,Saturday,0
+Heaton Park,17,2,6,2,23,4,27,April_16,Before  07:30,Saturday,1
+Bowker Vale,23,2,8,6,31,8,39,April_16,Before  07:30,Saturday,1
+Crumpsall,30,2,5,5,35,7,42,April_16,Before  07:30,Saturday,1
+Abraham Moss,17,0,2,6,19,6,25,April_16,Before  07:30,Saturday,1
+Queens Road,9,1,2,5,11,6,17,April_16,Before  07:30,Saturday,0
+Bury Interchange,254,0,0,320,254,320,574,April_16,AM Peak 07:30-09:30,Saturday,0
+Radcliffe,158,9,61,28,219,37,256,April_16,AM Peak 07:30-09:30,Saturday,1
+Whitefield,121,25,53,20,174,45,219,April_16,AM Peak 07:30-09:30,Saturday,1
+Besses O'th'Barn,76,2,34,15,110,17,127,April_16,AM Peak 07:30-09:30,Saturday,1
+Prestwich,68,23,36,24,104,47,151,April_16,AM Peak 07:30-09:30,Saturday,0
+Heaton Park,45,12,41,29,86,41,127,April_16,AM Peak 07:30-09:30,Saturday,0
+Bowker Vale,84,3,25,9,109,12,121,April_16,AM Peak 07:30-09:30,Saturday,1
+Crumpsall,86,7,24,17,110,24,134,April_16,AM Peak 07:30-09:30,Saturday,1
+Abraham Moss,28,11,8,26,36,37,73,April_16,AM Peak 07:30-09:30,Saturday,0
+Queens Road,25,24,12,10,37,34,71,April_16,AM Peak 07:30-09:30,Saturday,0
+Bury Interchange,1478,0,0,2334,1478,2334,3812,April_16,Off-peak 09:30-13:30,Saturday,0
+Radcliffe,569,110,401,214,970,324,1294,April_16,Off-peak 09:30-13:30,Saturday,0
+Whitefield,518,163,294,240,812,403,1215,April_16,Off-peak 09:30-13:30,Saturday,0
+Besses O'th'Barn,235,51,154,99,389,150,539,April_16,Off-peak 09:30-13:30,Saturday,0
+Prestwich,398,152,217,220,615,372,987,April_16,Off-peak 09:30-13:30,Saturday,0
+Heaton Park,263,141,213,197,476,338,814,April_16,Off-peak 09:30-13:30,Saturday,0
+Bowker Vale,259,43,106,79,365,122,487,April_16,Off-peak 09:30-13:30,Saturday,0
+Crumpsall,304,75,94,103,398,178,576,April_16,Off-peak 09:30-13:30,Saturday,0
+Abraham Moss,172,58,58,115,230,173,403,April_16,Off-peak 09:30-13:30,Saturday,0
+Queens Road,101,43,59,44,160,87,247,April_16,Off-peak 09:30-13:30,Saturday,0
+Bury Interchange,1380,0,0,1225,1380,1225,2605,April_16,13:30-15:59,Saturday,0
+Radcliffe,243,130,154,280,397,410,807,April_16,13:30-15:59,Saturday,0
+Whitefield,258,180,201,275,459,455,914,April_16,13:30-15:59,Saturday,0
+Besses O'th'Barn,96,96,92,112,188,208,396,April_16,13:30-15:59,Saturday,0
+Prestwich,199,113,134,180,333,293,626,April_16,13:30-15:59,Saturday,0
+Heaton Park,219,101,115,164,334,265,599,April_16,13:30-15:59,Saturday,0
+Bowker Vale,143,48,56,129,199,177,376,April_16,13:30-15:59,Saturday,0
+Crumpsall,157,62,45,146,202,208,410,April_16,13:30-15:59,Saturday,0
+Abraham Moss,137,45,44,101,181,146,327,April_16,13:30-15:59,Saturday,0
+Queens Road,54,40,40,47,94,87,181,April_16,13:30-15:59,Saturday,0
+Bury Interchange,1686,0,0,718,1686,718,2404,April_16,16:00-18:59,Saturday,0
+Radcliffe,214,221,121,353,335,574,909,April_16,16:00-18:59,Saturday,0
+Whitefield,262,212,80,344,342,556,898,April_16,16:00-18:59,Saturday,0
+Besses O'th'Barn,89,115,41,191,130,306,436,April_16,16:00-18:59,Saturday,0
+Prestwich,179,166,121,300,300,466,766,April_16,16:00-18:59,Saturday,0
+Heaton Park,211,110,103,180,314,290,604,April_16,16:00-18:59,Saturday,0
+Bowker Vale,58,78,30,213,88,291,379,April_16,16:00-18:59,Saturday,1
+Crumpsall,109,89,75,216,184,305,489,April_16,16:00-18:59,Saturday,0
+Abraham Moss,161,47,45,160,206,207,413,April_16,16:00-18:59,Saturday,0
+Queens Road,65,44,28,55,93,99,192,April_16,16:00-18:59,Saturday,0
+Bury Interchange,531,84,0,1005,531,1089,1620,April_16,19:00-end of service,Saturday,0
+Radcliffe,167,139,74,559,241,698,939,April_16,19:00-end of service,Saturday,0
+Whitefield,171,104,117,371,288,475,763,April_16,19:00-end of service,Saturday,0
+Besses O'th'Barn,82,52,62,184,144,236,380,April_16,19:00-end of service,Saturday,0
+Prestwich,140,129,162,275,302,404,706,April_16,19:00-end of service,Saturday,0
+Heaton Park,77,51,58,188,135,239,374,April_16,19:00-end of service,Saturday,0
+Bowker Vale,75,48,33,233,108,281,389,April_16,19:00-end of service,Saturday,0
+Crumpsall,70,40,44,232,114,272,386,April_16,19:00-end of service,Saturday,0
+Abraham Moss,67,48,16,134,83,182,265,April_16,19:00-end of service,Saturday,0
+Queens Road,35,34,24,58,59,92,151,April_16,19:00-end of service,Saturday,0
+Bury Interchange,11,0,0,18,11,18,29,May_16,Before  07:30,Sunday,0
+Radcliffe,9,0,4,3,13,3,16,May_16,Before  07:30,Sunday,1
+Whitefield,9,1,1,2,10,3,13,May_16,Before  07:30,Sunday,1
+Besses O'th'Barn,11,1,0,3,11,4,15,May_16,Before  07:30,Sunday,0
+Prestwich,5,0,1,1,6,1,7,May_16,Before  07:30,Sunday,1
+Heaton Park,3,0,1,1,4,1,5,May_16,Before  07:30,Sunday,1
+Bowker Vale,10,0,0,3,10,3,13,May_16,Before  07:30,Sunday,1
+Crumpsall,12,4,1,3,13,7,20,May_16,Before  07:30,Sunday,0
+Abraham Moss,5,1,2,6,7,7,14,May_16,Before  07:30,Sunday,0
+Queens Road,2,0,2,3,4,3,7,May_16,Before  07:30,Sunday,0
+Bury Interchange,73,0,0,95,73,95,168,May_16,AM Peak 07:30-09:30,Sunday,0
+Radcliffe,49,2,28,11,77,13,90,May_16,AM Peak 07:30-09:30,Sunday,1
+Whitefield,38,11,18,13,56,24,80,May_16,AM Peak 07:30-09:30,Sunday,0
+Besses O'th'Barn,34,3,13,6,47,9,56,May_16,AM Peak 07:30-09:30,Sunday,1
+Prestwich,31,11,9,13,40,24,64,May_16,AM Peak 07:30-09:30,Sunday,0
+Heaton Park,13,5,8,9,21,14,35,May_16,AM Peak 07:30-09:30,Sunday,0
+Bowker Vale,40,7,16,3,56,10,66,May_16,AM Peak 07:30-09:30,Sunday,1
+Crumpsall,44,8,6,10,50,18,68,May_16,AM Peak 07:30-09:30,Sunday,0
+Abraham Moss,18,5,4,24,22,29,51,May_16,AM Peak 07:30-09:30,Sunday,0
+Queens Road,21,10,4,10,25,20,45,May_16,AM Peak 07:30-09:30,Sunday,0
+Bury Interchange,747,0,0,891,747,891,1638,May_16,Off-peak 09:30-13:30,Sunday,0
+Radcliffe,433,69,231,115,664,184,848,May_16,Off-peak 09:30-13:30,Sunday,1
+Whitefield,307,78,160,99,467,177,644,May_16,Off-peak 09:30-13:30,Sunday,0
+Besses O'th'Barn,191,53,84,44,275,97,372,May_16,Off-peak 09:30-13:30,Sunday,0
+Prestwich,182,77,107,106,289,183,472,May_16,Off-peak 09:30-13:30,Sunday,0
+Heaton Park,168,196,102,399,270,595,865,May_16,Off-peak 09:30-13:30,Sunday,0
+Bowker Vale,224,48,71,67,295,115,410,May_16,Off-peak 09:30-13:30,Sunday,0
+Crumpsall,156,43,35,58,191,101,292,May_16,Off-peak 09:30-13:30,Sunday,0
+Abraham Moss,139,56,69,83,208,139,347,May_16,Off-peak 09:30-13:30,Sunday,0
+Queens Road,55,28,54,37,109,65,174,May_16,Off-peak 09:30-13:30,Sunday,0
+Bury Interchange,688,0,0,448,688,448,1136,May_16,13:30-15:59,Sunday,0
+Radcliffe,257,112,121,181,378,293,671,May_16,13:30-15:59,Sunday,0
+Whitefield,231,96,86,146,317,242,559,May_16,13:30-15:59,Sunday,0
+Besses O'th'Barn,101,65,57,76,158,141,299,May_16,13:30-15:59,Sunday,0
+Prestwich,219,83,64,163,283,246,529,May_16,13:30-15:59,Sunday,0
+Heaton Park,315,189,208,309,523,498,1021,May_16,13:30-15:59,Sunday,0
+Bowker Vale,93,42,28,67,121,109,230,May_16,13:30-15:59,Sunday,0
+Crumpsall,161,36,60,50,221,86,307,May_16,13:30-15:59,Sunday,0
+Abraham Moss,90,27,62,47,152,74,226,May_16,13:30-15:59,Sunday,0
+Queens Road,43,23,32,55,75,78,153,May_16,13:30-15:59,Sunday,0
+Bury Interchange,547,0,0,488,547,488,1035,May_16,16:00-18:59,Sunday,0
+Radcliffe,136,76,42,220,178,296,474,May_16,16:00-18:59,Sunday,0
+Whitefield,101,95,59,209,160,304,464,May_16,16:00-18:59,Sunday,0
+Besses O'th'Barn,70,77,34,136,104,213,317,May_16,16:00-18:59,Sunday,0
+Prestwich,90,64,58,170,148,234,382,May_16,16:00-18:59,Sunday,0
+Heaton Park,394,106,173,192,567,298,865,May_16,16:00-18:59,Sunday,0
+Bowker Vale,58,34,29,144,87,178,265,May_16,16:00-18:59,Sunday,0
+Crumpsall,89,68,56,164,145,232,377,May_16,16:00-18:59,Sunday,0
+Abraham Moss,42,56,49,160,91,216,307,May_16,16:00-18:59,Sunday,0
+Queens Road,22,47,54,51,76,98,174,May_16,16:00-18:59,Sunday,0
+Bury Interchange,249,0,0,527,249,527,776,May_16,19:00-end of service,Sunday,0
+Radcliffe,54,60,66,252,120,312,432,May_16,19:00-end of service,Sunday,0
+Whitefield,64,59,59,198,123,257,380,May_16,19:00-end of service,Sunday,0
+Besses O'th'Barn,42,41,31,145,73,186,259,May_16,19:00-end of service,Sunday,0
+Prestwich,59,34,62,166,121,200,321,May_16,19:00-end of service,Sunday,0
+Heaton Park,126,46,84,105,210,151,361,May_16,19:00-end of service,Sunday,0
+Bowker Vale,51,39,19,111,70,150,220,May_16,19:00-end of service,Sunday,0
+Crumpsall,46,30,23,158,69,188,257,May_16,19:00-end of service,Sunday,0
+Abraham Moss,37,51,26,83,63,134,197,May_16,19:00-end of service,Sunday,0
+Queens Road,31,12,22,54,53,66,119,May_16,19:00-end of service,Sunday,0
